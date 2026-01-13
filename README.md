@@ -61,21 +61,18 @@ the slider handles shape variation automatically.
 
 ---
 
-## 📦 Files Included
-### `/low/`
-- `tfbs_low.safetensors`
-- `preview_low.png` / `preview_low.mp4`
-- version notes (optional)
+---
 
-### `/mid/`
-- `tfbs_mid.safetensors`
-- `preview_mid.png` / `preview_mid.mp4`
-- version notes (optional)
+## ⚡ Quick Links
 
-### `/ultra/`
-- `tfbs_ultra.safetensors`
-- `preview_ultra.png` / `preview_ultra.mp4`
-- version notes (optional)
+| Version | Weights | Preview |
+|--------|---------|---------|
+| **Low**   | [/low/tfbs_low.safetensors](./low/tfbs_low.safetensors)     | ![preview](./low/preview_low.png) |
+| **Mid**   | [/mid/tfbs_mid.safetensors](./mid/tfbs_mid.safetensors)     | ![preview](./mid/preview_mid.png) |
+| **Ultra** | [/ultra/tfbs_ultra.safetensors](./ultra/tfbs_ultra.safetensors) | ![preview](./ultra/preview_ultra.png) |
+
+---
+
 
 ---
 
