@@ -61,14 +61,14 @@ the slider handles shape variation automatically.
 
 ---
 
-
 ## ⚡ Quick Links
 
 | Version | Weights | Preview |
 |--------|---------|---------|
-| **Low** | [/low/tfbs_low.safetensors](/low/tfbs_low.safetensors) | <img src="/low/2025-12-30-22.png" width="120"> |
-| **Mid** | [/mid/TFBS_ED.safetensors](/mid/TFBS_ED.safetensors) | <img src="/mid/2026-01-06-12.png" width="120"> |
-| **Ultra** | [/ultra/tfbs_ultra.safetensors](/ultra/tfbs_ultra.safetensors) | <img src="/ultra/2025-12-30.png" width="120"> |
+| **Low** | [/low/tfbs_low.safetensors](/low/tfbs_low.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/low/2025-12-30-22.png" width="120"> |
+| **Mid** | [/mid/TFBS_ED.safetensors](/mid/TFBS_ED.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/mid/2026-01-06-12.png" width="120"> |
+| **Ultra** | [/ultra/tfbs_ultra.safetensors](/ultra/tfbs_ultra.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/ultra/2025-12-30.png" width="120"> |
+
 
 
 ---
