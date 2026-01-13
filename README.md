@@ -62,10 +62,20 @@ the slider handles shape variation automatically.
 ---
 
 ## 📦 Files Included
-- `tfbs.safetensors` — model weights  
-- Preview images/videos  
-- README  
-- License  
+### `/low/`
+- `tfbs_low.safetensors`
+- `preview_low.png` / `preview_low.mp4`
+- version notes (optional)
+
+### `/mid/`
+- `tfbs_mid.safetensors`
+- `preview_mid.png` / `preview_mid.mp4`
+- version notes (optional)
+
+### `/ultra/`
+- `tfbs_ultra.safetensors`
+- `preview_ultra.png` / `preview_ultra.mp4`
+- version notes (optional)
 
 ---
 
