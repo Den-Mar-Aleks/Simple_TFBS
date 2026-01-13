@@ -66,9 +66,10 @@ the slider handles shape variation automatically.
 
 | Version | Weights | Preview |
 |--------|---------|---------|
-| **Low**   | [/low/tfbs_low.safetensors](./low/tfbs_low.safetensors)     | ![preview](./low/preview_low.png) |
-| **Mid**   | [/mid/tfbs_mid.safetensors](./mid/tfbs_mid.safetensors)     | ![preview](./mid/preview_mid.png) |
-| **Ultra** | [/ultra/tfbs_ultra.safetensors](./ultra/tfbs_ultra.safetensors) | ![preview](./ultra/preview_ultra.png) |
+| **Low** | [/low/tfbs_low.safetensors](/low/tfbs_low.safetensors) | <img src="/low/2025-12-30-22.png" width="120"> |
+| **Mid** | [/mid/TFBS_ED.safetensors](/mid/TFBS_ED.safetensors) | <img src="/mid/2026-01-06-12.png" width="120"> |
+| **Ultra** | [/ultra/tfbs_ultra.safetensors](/ultra/tfbs_ultra.safetensors) | <img src="/ultra/2025-12-30.png" width="120"> |
+
 
 
 ---
