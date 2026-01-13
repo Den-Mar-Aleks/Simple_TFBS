@@ -36,7 +36,7 @@ The model adjusts **only overall body silhouette**, keeping natural structure wi
 
 ```yaml
 lora:
-  name: "dmsjix/Simple_TFBS"
+  name: "dmsnoa/jix/Simple_TFBS"
   multiplier: -1.5   # thin
 ```
 
@@ -76,6 +76,6 @@ Users must follow safety restrictions and avoid misuse as described in the licen
 ---
 
 ## ✏️ Author
-Created by **dmsjix**
+Created by **dmsnoa/jix**
 
 ⭐ If you found the model useful — consider starring the repository!
