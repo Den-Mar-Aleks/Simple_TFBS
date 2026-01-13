@@ -1,5 +1,5 @@
 # 🔵 Simple_TFBS — Thin/Fat Body Slider LoRA
-**Flux / ZIT compatible · Safe · Stylized body-geometry manipulation**
+**ZIT compatible · Safe · Stylized body-geometry manipulation**
 
 ---
 
