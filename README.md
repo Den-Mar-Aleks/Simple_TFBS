@@ -71,7 +71,6 @@ the slider handles shape variation automatically.
 | **Ultra** | [/ultra/tfbs_ultra.safetensors](/ultra/tfbs_ultra.safetensors) | <img src="/ultra/2025-12-30.png" width="120"> |
 
 
-
 ---
 
 ## 🧾 License
