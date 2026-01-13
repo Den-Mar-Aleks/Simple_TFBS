@@ -61,7 +61,6 @@ the slider handles shape variation automatically.
 
 ---
 
----
 
 ## ⚡ Quick Links
 
@@ -70,8 +69,6 @@ the slider handles shape variation automatically.
 | **Low**   | [/low/tfbs_low.safetensors](./low/tfbs_low.safetensors)     | ![preview](./low/preview_low.png) |
 | **Mid**   | [/mid/tfbs_mid.safetensors](./mid/tfbs_mid.safetensors)     | ![preview](./mid/preview_mid.png) |
 | **Ultra** | [/ultra/tfbs_ultra.safetensors](./ultra/tfbs_ultra.safetensors) | ![preview](./ultra/preview_ultra.png) |
-
----
 
 
 ---
