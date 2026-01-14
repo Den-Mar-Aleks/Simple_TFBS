@@ -1,3 +1,14 @@
+---
+license: other
+tags:
+  - lora
+  - body-slider
+  - body-editing
+  - stylized
+  - zit-compatible
+pipeline_tag: text-to-image
+---
+
 # 🔵 Simple_TFBS — Thin/Fat Body Slider LoRA
 **ZIT compatible · Safe · Stylized body-geometry manipulation**
 
