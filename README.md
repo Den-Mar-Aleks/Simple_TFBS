@@ -14,6 +14,16 @@ pipeline_tag: text-to-image
 
 ---
 
+## ⚡ Quick Links
+
+| Version | Weights | Preview |
+|--------|---------|---------|
+| **Low** | [/low/tfbs_low.safetensors](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/low/tfbs_low.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/low/2025-12-30-22.png" width="120"> |
+| **Mid** | [/mid/TFBS_ED.safetensors](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/mid/TFBS_ED.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/mid/2026-01-06-12.png" width="120"> |
+| **Ultra** | [/ultra/tfbs.safetensors](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/ultra/tfbs.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/ultra/2025-12-30.png" width="120"> |
+
+---
+
 ## 🔍 Overview
 **Simple_TFBS** is an artistic geometry-based body-shape slider LoRA.  
 It modifies **only stylized body volume** in the direction of **thinner ↔ fuller**, without affecting:
@@ -72,17 +82,7 @@ the slider handles shape variation automatically.
 
 ---
 
-## ⚡ Quick Links
 
-| Version | Weights | Preview |
-|--------|---------|---------|
-| **Low** | [/low/tfbs_low.safetensors](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/low/tfbs_low.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/low/2025-12-30-22.png" width="120"> |
-| **Mid** | [/mid/TFBS_ED.safetensors](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/mid/TFBS_ED.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/mid/2026-01-06-12.png" width="120"> |
-| **Ultra** | [/ultra/tfbs.safetensors](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/ultra/tfbs.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/ultra/2025-12-30.png" width="120"> |
-
-
-
----
 
 ## 🧾 License
 **CreativeML OpenRAIL-M**  
