@@ -16,13 +16,47 @@ pipeline_tag: text-to-image
 
 ## ⚡ Quick Links
 
-| Version | Weights | Preview |
-|--------|---------|---------|
-| **Low** | [/low/tfbs_low.safetensors](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/low/tfbs_low.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/low/2025-12-30-22.png" width="120"> |
-| **Mid** | [/mid/TFBS_ED.safetensors](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/mid/TFBS_ED.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/mid/2026-01-06-12.png" width="120"> |
-| **Ultra** | [/ultra/tfbs.safetensors](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/ultra/tfbs.safetensors) | <img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/ultra/2025-12-30.png" width="120"> |
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### Low  
+[Download Weights](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/low/tfbs_low.safetensors)
+
+<br>
+
+<img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/low/2025-12-30-22.png" width="220">
+
+</td>
+
+<td width="33%" valign="top">
+
+### Mid  
+[Download Weights](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/mid/TFBS_ED.safetensors)
+
+<br>
+
+<img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/mid/2026-01-06-12.png" width="220">
+
+</td>
+
+<td width="33%" valign="top">
+
+### Ultra  
+[Download Weights](https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/ultra/tfbs.safetensors)
+
+<br>
+
+<img src="https://huggingface.co/dmsnoa/Simple_TFBS/resolve/main/ultra/2025-12-30.png" width="220">
+
+</td>
+
+</tr>
+</table>
 
 ---
+
 
 ## 🔍 Overview
 **Simple_TFBS** is an artistic geometry-based body-shape slider LoRA.  
