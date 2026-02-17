@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "0 */6 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -14,6 +17,7 @@ jobs:
         with:
           fetch-depth: 0
           lfs: false
+          persist-credentials: true
 
       - name: Setup Git LFS
         run: |
@@ -36,6 +40,9 @@ jobs:
           git checkout main
           git merge --no-edit hf/main
 
-      - name: Push to GitHub
+      - name: Push to GitHub (use GITHUB_TOKEN)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push origin main
